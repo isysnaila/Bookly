@@ -168,6 +168,7 @@ body{
   align-items: center;
   text-align: center;
   font-size: clamp(20px, 5vw, 36px);
+  }
   .linha{
   display: block;
   }
