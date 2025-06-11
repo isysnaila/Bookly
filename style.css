@@ -162,6 +162,9 @@ body{
 
 @media (min-width:300px) and (max-width: 720px){
 
+  .logo{
+  display: flex;
+  }
   .titulo{
   display: flex;
   justify-content: center;
