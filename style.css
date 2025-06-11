@@ -166,7 +166,9 @@ body{
   margin: 0 auto; 
   }
   .titulo {
-  background: linear-gradient(to right, #438587, #438587, #f1e0cc, #cf494b);
+  background: linear-gradient(to right, #438587,#438587, #cf494b);
+  background-clip: text;
+  color: transparent;
   display: flex;
   flex-direction: column; 
   align-items: center; 
