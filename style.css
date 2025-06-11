@@ -166,7 +166,7 @@ body{
   margin: 0 auto; 
   }
   .titulo h2 {
-  background: linear-gradient(to right,#438587, #cf494b, #438587, #cf494b,#f1e0cc, #cf494b, #cf494b);
+  background: linear-gradient(to right,#438587, #438587, #438587, #cf494b, #438587, #cf494b,#f1e0cc, #cf494b, #cf494b);
   }
  
   .titulo {
