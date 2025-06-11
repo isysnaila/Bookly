@@ -164,12 +164,7 @@ body{
 
 	
   .descricao{
-  font-size: 30px;
-  font-style: initial;
-  color: #231e1a;
-  padding: 20px;
-  border: 1px solid #ccc;
-  background-color: #e9ecef;
+  display: block;
   column-count: 1; 
   column-gap: 0; 
   }
