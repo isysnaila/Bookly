@@ -185,10 +185,7 @@ body{
   width: 100%;
   text-align: center;	
   }
-  .descricao{
-  column-count: 1; 
-  column-gap: 0; 
-  }
+
   .produto{
   width:100%;
   padding:2px;
