@@ -168,6 +168,8 @@ body{
   .titulo {
   background: linear-gradient(to right, #438587,#438587, #cf494b);
   background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
   color: transparent;
   display: flex;
   flex-direction: column; 
