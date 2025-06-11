@@ -163,7 +163,6 @@ body{
 @media (min-width:300px) and (max-width: 720px){
 
   .logo{
-  display: block;
   margin: 0 auto; 
   }
   .titulo {
