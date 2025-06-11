@@ -164,6 +164,7 @@ body{
 
   .logo{
   display: flex;
+  flex-wrap: wrap;
   }
   .titulo{
   display: flex;
