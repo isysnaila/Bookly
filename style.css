@@ -162,6 +162,15 @@ body{
 
 @media (min-width:300px) and (max-width: 720px){
 
+	
+ .descricao{
+  font-size: 30px;
+  font-style: initial;
+  color: #231e1a;
+  padding: 20px; 
+  border: 1px solid #ccc; 
+  background-color: #e9ecef;
+  }
   .logo{
   margin: 0 auto; 
   }
