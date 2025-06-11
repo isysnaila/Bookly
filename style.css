@@ -190,8 +190,9 @@ body{
   padding:2px;
   border: solid 1px #4B0082;
   }
-  form{
-  text-align: justify;
+
+ .descricao{
+  column-count: 1;
   }
   .mapa{
     width: 100%;
