@@ -161,13 +161,6 @@ body{
 }
 
 @media (min-width:300px) and (max-width: 720px){
-
-	
-  .descricao{
-  display: block;
-  column-count: 1; 
-  column-gap: 0; 
-  }
   
   .logo{
   margin: 0 auto; 
@@ -191,6 +184,10 @@ body{
   .imgproduto{
   width: 100%;
   text-align: center;	
+  }
+  .descricao{
+  column-count: 1; 
+  column-gap: 0; 
   }
   .produto{
   width:100%;
