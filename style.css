@@ -166,12 +166,7 @@ body{
   margin: 0 auto; 
   }
   .titulo h2 {
-  background: linear-gradient(to right, #cf494b, #f1e0cc, #cf494b, #438587, #438587, #cf494b);
-  -webkit-background-clip: text; /* Para compatibilidade em navegadores WebKit */
-  -webkit-text-fill-color: transparent; /* Deixa o fundo visível apenas no texto */
-  text-align: center;
-  font-size: 50px;
-  margin: 15px auto;
+  background: linear-gradient(to right,#438587,#438587, #cf494b);
   }
  
   .titulo {
