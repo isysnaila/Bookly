@@ -163,7 +163,11 @@ body{
 @media (min-width:300px) and (max-width: 720px){
 
   .titulo{
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: clamp(20px, 5vw, 36px);
   .linha{
   display: block;
   }
